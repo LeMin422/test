@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b727425-4737-4446-9ab4-3f76fb5e11f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l6HTOqEdBQymW09upP2zrYppyJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bootPro/css" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\78798\Desktop\bootPro\bootPro\css" />
+      <recent name="C:\Users\78798\Desktop\bootPro\bootPro\img" />
+      <recent name="C:\Users\78798\Desktop\bootPro\bootPro" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b727425-4737-4446-9ab4-3f76fb5e11f0" name="Default Changelist" comment="" />
+      <created>1606910628012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606910628012</updated>
+      <workItem from="1606910629038" duration="3252000" />
+      <workItem from="1607062880817" duration="11871000" />
+      <workItem from="1607079583771" duration="5200000" />
+      <workItem from="1607134128256" duration="4570000" />
+      <workItem from="1607179036433" duration="1721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="787" y="120" key="FileChooserDialogImpl" timestamp="1607065318769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="787" y="120" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607065318769" />
+    <state x="591" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607064959780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607064959780" />
+  </component>
+</project>

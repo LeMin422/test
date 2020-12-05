@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>注册</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/tailwind.min.css">
+    <link rel="stylesheet" href="css/comm.css">
+    <style>
+        .dowebok .weixin, .dowebok .weibo {
+            display: inline-block;
+            width: 32px;
+            height: 32px;
+            background-size: cover;
+        }
+
+        .dowebok .weixin {
+            background-image: url(img/weixin.png);
+        }
+
+        .dowebok .weibo {
+            background-image: url(img/weibo.png);
+        }
+    </style>
+    <script type="text/javascript">
+        function gotoindex(){
+          //  window.history.go(-1);
+            window.location.href='index.html';
+        }
+    </script>
+</head>
+
+
+<body class="min-h-screen bg-gray-100 text-gray-900 flex justify-center dowebok">
+<!--    <header>-->
+<!--        <iframe class="my_header" scrolling="no" src="header.html"></iframe>-->
+<!--    </header>-->
+<div class="max-w-screen-xl m-0 sm:m-20 bg-white shadow sm:rounded-lg flex justify-center flex-1">
+    <div class="lg:w-1/2 xl:w-5/12 p-6 sm:p-12">
+        <img src="img/goback.png" class="float-left h-10 w-10" onclick="goback()"><p class="float-left mt-2" onclick="gotoindex()">返回首页</p>
+        <div class="mt-12 flex flex-col items-center">
+            <h1 class="text-2xl xl:text-3xl font-extrabold">用户注册</h1>
+            <div class="w-full flex-1 mt-8">
+
+<!--                <div class="flex flex-col items-center">-->
+<!--                    <button class="w-full max-w-xs font-bold shadow-sm rounded-lg py-3 bg-indigo-100 text-gray-800 flex items-center justify-center ease-in-out focus:outline-none hover:shadow focus:shadow-sm focus:shadow-outline">-->
+<!--                        <div class="weixin"></div>-->
+<!--                        <span class="ml-4">使用微信登录</span>-->
+<!--                    </button>-->
+<!--                    <button class="w-full max-w-xs font-bold shadow-sm rounded-lg py-3 bg-indigo-100 text-gray-800 flex items-center justify-center ease-in-out focus:outline-none hover:shadow focus:shadow-sm focus:shadow-outline mt-5">-->
+<!--                        <div class="weibo"></div>-->
+<!--                        <span class="ml-4">使用微博登录</span>-->
+<!--                    </button>-->
+<!--                </div>-->
+<!--                <div >-->
+<!--                    <img src="img/weixin.png" class="float h-8 w-8 text-center" alt="">-->
+<!--                    <img src="img/weibo.png" class="float-left h-8 w-8 text-center" alt="">-->
+<!--                </div>-->
+                <div class="my-12 border-b text-center">
+                    <div class="leading-none px-2 inline-block text-sm text-gray-600 tracking-wide font-medium bg-white transform translate-y-1/2">使用邮箱注册</div>
+                </div>
+
+                <form action="" method="">
+
+
+                <div class="mx-auto max-w-xs">
+                    <input class="w-full px-8 py-4 rounded-lg font-medium bg-gray-100 border border-gray-200 placeholder-gray-500 text-sm focus:outline-none focus:border-gray-400 focus:bg-white" type="email" name="email" placeholder="电子邮箱" />
+                    <input class="w-full px-8 py-4 rounded-lg font-medium bg-gray-100 border border-gray-200 placeholder-gray-500 text-sm focus:outline-none focus:border-gray-400 focus:bg-white mt-5" type="password" name="password" placeholder="密码" />
+                    <input class="w-full px-8 py-4 rounded-lg font-medium bg-gray-100 border border-gray-200 placeholder-gray-500 text-sm focus:outline-none focus:border-gray-400 focus:bg-white mt-5" type="password" name="password2" placeholder="确认密码" />
+
+                    <button class="mt-5 tracking-wide font-semibold bg-indigo-500 text-gray-100 w-full py-4 rounded-lg hover:bg-indigo-700 ease-in-out flex items-center justify-center focus:shadow-outline focus:outline-none">
+                        <span class="ml-3">注 册 </span>
+                    </button>
+                    <!--                        <input type="checkbox">-->
+                    <p class="mt-6 text-xs text-gray-600 text-center">已有账户？点此<a href="login.html" style="text-decoration:underline;">登录</a></p>
+
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="flex-1 bg-indigo-100 text-center hidden lg:flex">
+        <div class="m-12 xl:m-16 w-full bg-contain bg-center bg-no-repeat" style="background-image: url('img/dowebok.svg');"></div>
+    </div>
+</div>
+<!--    <footer>-->
+<!--        <iframe class="my_footer" src="footer.html" scrolling="no"></iframe>-->
+<!--    </footer>-->
+</body>
+</html>
